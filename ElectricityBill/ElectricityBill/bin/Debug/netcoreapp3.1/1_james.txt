@@ -1,0 +1,6 @@
+Customer Id : 1
+Customer Name : james
+Units Consume:  800
+Amount Charges @RS.: 2.0 per unit : 1600
+Surcharge Amount : 240
+Net amount paid by the customer : 1840

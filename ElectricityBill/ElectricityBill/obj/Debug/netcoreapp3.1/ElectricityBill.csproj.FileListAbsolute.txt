@@ -1,0 +1,12 @@
+D:\Inam Projects\ElectricityBill\ElectricityBill\obj\Debug\netcoreapp3.1\ElectricityBill.AssemblyInfoInputs.cache
+D:\Inam Projects\ElectricityBill\ElectricityBill\obj\Debug\netcoreapp3.1\ElectricityBill.AssemblyInfo.cs
+D:\Inam Projects\ElectricityBill\ElectricityBill\obj\Debug\netcoreapp3.1\ElectricityBill.csproj.CoreCompileInputs.cache
+D:\Inam Projects\ElectricityBill\ElectricityBill\bin\Debug\netcoreapp3.1\ElectricityBill.exe
+D:\Inam Projects\ElectricityBill\ElectricityBill\bin\Debug\netcoreapp3.1\ElectricityBill.deps.json
+D:\Inam Projects\ElectricityBill\ElectricityBill\bin\Debug\netcoreapp3.1\ElectricityBill.runtimeconfig.json
+D:\Inam Projects\ElectricityBill\ElectricityBill\bin\Debug\netcoreapp3.1\ElectricityBill.runtimeconfig.dev.json
+D:\Inam Projects\ElectricityBill\ElectricityBill\bin\Debug\netcoreapp3.1\ElectricityBill.dll
+D:\Inam Projects\ElectricityBill\ElectricityBill\bin\Debug\netcoreapp3.1\ElectricityBill.pdb
+D:\Inam Projects\ElectricityBill\ElectricityBill\obj\Debug\netcoreapp3.1\ElectricityBill.dll
+D:\Inam Projects\ElectricityBill\ElectricityBill\obj\Debug\netcoreapp3.1\ElectricityBill.pdb
+D:\Inam Projects\ElectricityBill\ElectricityBill\obj\Debug\netcoreapp3.1\ElectricityBill.genruntimeconfig.cache

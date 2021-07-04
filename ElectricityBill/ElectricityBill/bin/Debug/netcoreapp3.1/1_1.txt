@@ -1,0 +1,6 @@
+Customer Id : 1
+Customer Name : 1
+Units Consume:  1
+Amount Charges @RS.: 1.2 per unit : 1.2
+Surcharge Amount : 0
+Net amount paid by the customer : 1.2
